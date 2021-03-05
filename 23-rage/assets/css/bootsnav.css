@@ -52,7 +52,7 @@ nav.navbar.bootsnav{
 }
 
 nav.navbar.bootsnav ul.nav > li > a{
-    color: #6f6f6f;
+    color: black;
     background-color: transparent !important;
 }
 
@@ -639,7 +639,7 @@ body.on-side .wrap-sticky nav.navbar.bootsnav.sticked{
     /* Navbar Transparent
     =================================*/  
     nav.navbar.bootsnav.no-background{
-        background-color: transparent;
+        background-color: white;
         border: none;
     }
     
@@ -672,7 +672,7 @@ body.on-side .wrap-sticky nav.navbar.bootsnav.sticked{
     nav.navbar.bootsnav.navbar-transparent.white .attr-nav > ul > li > a,
     nav.navbar.bootsnav.navbar-transparent.white ul.nav > li > a,
     nav.navbar.bootsnav.no-background.white ul.nav > li > a{
-        color: #fff;
+        color: black;
     }
     
     nav.navbar.bootsnav.navbar-transparent.dark .attr-nav > ul > li > a,
