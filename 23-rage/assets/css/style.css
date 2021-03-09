@@ -228,7 +228,7 @@ h5,
 h6 {
     margin: 0;
     font-family: 'Montserrat', sans-serif;
-    color:#1a1a1a;
+    color:#f9f4f4c4;
     margin-bottom: 10px;
 }
 
@@ -239,6 +239,7 @@ h1 {
 h2 {
     font-size: 2.5rem;
     line-height: 3rem;
+    color:black;
 }
 h3 {
     font-size: 2.1rem;
@@ -1743,3 +1744,6 @@ Footer Section style
     text-decoration: none;
 
 }
+
+
+
